@@ -18,7 +18,7 @@
 
 2.  **安装本脚本**
     *   **从 GitHub 安装**:
-        *   打开项目中的 `.js` 脚本文件，例如 `bilibili-duration-highlighter.user.js`。
+        *   打开项目中的 `bilibili-duration-highlighter.user.js` 脚本文件。
         *   点击页面右上角的 "Raw" (原始文件) 按钮。
         *   Tampermonkey 会自动识别并弹出安装页面，点击 "安装"。
 
