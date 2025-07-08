@@ -17,10 +17,15 @@
     *   请根据您的浏览器，从其官网或应用商店下载并安装。
 
 2.  **安装本脚本**
-    *   **从 GitHub 安装**:
+    *   **从 GitHub 安装**（似乎不太稳定）:
         *   打开项目中的 `bilibili-duration-highlighter.user.js` 脚本文件。
         *   点击页面右上角的 "Raw" (原始文件) 按钮。
         *   Tampermonkey 会自动识别并弹出安装页面，点击 "安装"。
+    *   **备用方法**:
+        *   点击油猴->添加新脚本
+        *   删除所有默认的代码
+        *   将 `bilibili-duration-highlighter.user.js` 中的所有代码复制到添加的新脚本中
+        *   点击文件->保存（快捷键 Ctrl+S 或 Cmd+S）
 
 安装完成后，访问任意B站UP主的个人空间视频页 (例如 `https://space.bilibili.com/`)，脚本将自动生效。
 
